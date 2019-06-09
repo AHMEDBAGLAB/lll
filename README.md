@@ -1,0 +1,2 @@
+# Trick
+$ python installTrick.py
